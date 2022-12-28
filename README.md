@@ -74,5 +74,5 @@ Project structure consists of 3 layers + db:
 3. Configure Tomcat (recommended [9.0.50 version](https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.50/bin/)).
 4. Run program using `Shift + F10`.
 5. The window must automatically open in your browser, if not type this URL `http://localhost:8080/login`.
-6. You can log in as user using login: 'user@i.ua' and password: 'user123' or admin using login: 'admin@i.ua' and password: 'admin123'.
+6. You can log in as user using login: `user@i.ua` and password: `user123` or admin using login: `admin@i.ua` and password: `admin123`.
 7. Enjoy.
