@@ -44,6 +44,7 @@ the front-end development team
 | User       |                Complete orders                | POST: `/orders/complete`              |
 | User       |         Add tickets to shopping cart          | PUT: `/shopping-carts/movie-sessions` |
 | User       |           Get shopping cart by user           | GET: `/shopping-carts/by-user`        |
+
 Looking at the table you can understand what resource the `USER` or `ADMIN` has access to.
 
 ## 🧱 Project structure 🧱
